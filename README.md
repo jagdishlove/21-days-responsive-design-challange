@@ -6,6 +6,6 @@ a very famous youtuber and I call him, responsive design father if you want to f
 
 In this challange basically we will try to achieve the best method to make our UI responsive by using HTML and CSS so that we can use them anywhere....
 
-#Will Update Day By Day
+# Will Update Day By Day
 
 >DAY 1
