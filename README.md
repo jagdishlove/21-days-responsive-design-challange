@@ -9,4 +9,48 @@ In this challange basically we will try to achieve the best method to make our U
 # Will Update Day By Day
 
 >DAY 1
->>sdfsdf
+
+>DAY 2
+
+>DAY 3
+
+>DAY 4
+
+>DAY 5
+
+>DAY 6
+
+>DAY 7
+
+>DAY 8
+
+>DAY 9
+
+>DAY 10
+
+>DAY 11
+
+>DAY 12
+
+>DAY 13
+
+>DAY 14
+
+>DAY 15
+
+>DAY 16
+
+>DAY 17
+
+>DAY 18
+
+>DAY 19
+
+>DAY 20
+
+##Last day
+
+>DAY 21
+
+
+
