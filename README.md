@@ -13,7 +13,10 @@ In this challange basically we will try to achieve the best method to make our U
 * Use min-width and max-height also for preventing @media everytime.
 * Ignore using height for this otherwill it will become complicated now, let it be default size.
 
-### DAY 2 | Getting familiar with relative units
+### DAY 2 | `Getting familiar with relative units`
+* I stopped using ~~px~~ instead of that I started using em and rem.
+* `1em is equal to 16px so keep it in mind.`
+* Using em in font can lead to changing size of it according to its parent so always try to use rem because it always take from the Root in which we basically  dont declear font size.
 
 >DAY 3
 
