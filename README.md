@@ -8,12 +8,12 @@ In this challange basically we will try to achieve the best method to make our U
 
 # Will Update Day By Day
 
-### DAY 1: Using percentages & avoiding heights
+### DAY 1 | Using percentages & avoiding heights
 * Always use Width in % it will automatically change size according to the screen.
 * Use min-width and max-height also for preventing @media everytime.
 * Ignore using height for this otherwill it will become complicated now, let it be default size.
 
->DAY 2
+### DAY 2 | Getting familiar with relative units
 
 >DAY 3
 
