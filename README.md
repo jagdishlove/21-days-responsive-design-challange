@@ -21,6 +21,7 @@ In this challange basically we will try to achieve the best method to make our U
 * As we saw, setting a fixed width on an element tends to be a bad idea. Instead we can use percentages, which make our lives easier.
 * The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
 * For more understanding you can check out [HERE](https://css-tricks.com/tale-width-max-width/)
+* For Challange03 Design please [visit here](https://www.figma.com/file/dGPcL6Ym2avOt4736aHb2B/conquer-responsive-layout-week-1-final-challenge?node-id=0%3A1) for figma file 
 
 >DAY 4
 
