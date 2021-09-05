@@ -18,7 +18,7 @@ In this challange basically we will try to achieve the best method to make our U
 * Using em in font can lead to changing size of it according to its parent so always try to use rem because it always take from the Root in which we basically  dont declear font size.
 
 ### DAY 3 | `Enter max-width`
-** As we saw, setting a fixed width on an element tends to be a bad idea. Instead we can use percentages, which make our lives easier.
+**As we saw, setting a fixed width on an element tends to be a bad idea. Instead we can use percentages, which make our lives easier.**
 ** The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
 
 >DAY 4
