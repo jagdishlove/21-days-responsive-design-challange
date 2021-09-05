@@ -8,9 +8,8 @@ In this challange basically we will try to achieve the best method to make our U
 
 # Will Update Day By Day
 
-### DAY 1 | `Using percentages & avoiding heights`
+### DAY 1 | **`Using percentages & avoiding heights`
 * Always use Width in % it will automatically change size according to the screen.
-* Use min-width and max-height also for preventing @media everytime.
 * Ignore using height for this otherwill it will become complicated now, let it be default size.
 
 ### DAY 2 | `Getting familiar with relative units`
@@ -18,7 +17,7 @@ In this challange basically we will try to achieve the best method to make our U
 * `1em is equal to 16px so keep it in mind.`
 * Using em in font can lead to changing size of it according to its parent so always try to use rem because it always take from the Root in which we basically  dont declear font size.
 
->DAY 3
+### DAY 3 | `Enter max-width`
 
 >DAY 4
 
