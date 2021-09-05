@@ -14,41 +14,42 @@
  *
  */
 
-* {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: Roboto;
 }
 
 .container {
-  width: 100%;
-  background: #23424a;
-  color: white;
-  padding:1em;
-
-}
-
-.intro-content {
+  width: 80%;
   max-width: 750px;
-  margin:0 auto;
-  padding: 5em;
+  margin: 0 auto;
+  color: white;
 }
 
-.btn{
-  display: block;
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 2vmin;
-line-height: 150.19%;
-color: #072A2D;
-background: #38CFD9;
-border-radius: 31.5px;
-border:none;
-padding:.5em 1.3em;
-
+.hero {
+  background: #23424a;
+  color: #fff;
+  padding: 100px 0;
 }
 
+.btn {
+  display: inline-block;
+  line-height: 150.19%;
+  color: #072a2d;
+  background: #38cfd9;
+  border-radius: 31.5px;
+  border: none;
+  font-weight: 800;
+  padding: 0.7em 2em;
+}
+
+.btn:hover,
+.btn:focus {
+  opacity: 0.75;
+}
