@@ -8,7 +8,7 @@ In this challange basically we will try to achieve the best method to make our U
 
 # Will Update Day By Day
 
-### DAY 1 | **Using percentages & avoiding heights
+### DAY 1 | `Using percentages & avoiding heights`
 * Always use Width in % it will automatically change size according to the screen.
 * Ignore using height for this otherwill it will become complicated now, let it be default size.
 
@@ -18,6 +18,8 @@ In this challange basically we will try to achieve the best method to make our U
 * Using em in font can lead to changing size of it according to its parent so always try to use rem because it always take from the Root in which we basically  dont declear font size.
 
 ### DAY 3 | `Enter max-width`
+** As we saw, setting a fixed width on an element tends to be a bad idea. Instead we can use percentages, which make our lives easier.
+** The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
 
 >DAY 4
 
