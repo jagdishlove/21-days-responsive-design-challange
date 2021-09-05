@@ -9,6 +9,8 @@ In this challange basically we will try to achieve the best method to make our U
 # Will Update Day By Day
 
 >DAY 1
+>>Always use Width in % it will automatically change size according to the screen.
+>>Use min-width and max-height also for preventing @media everytime.
 
 >DAY 2
 
