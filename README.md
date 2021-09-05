@@ -20,6 +20,7 @@ In this challange basically we will try to achieve the best method to make our U
 ### DAY 3 | `Enter max-width`
 * As we saw, setting a fixed width on an element tends to be a bad idea. Instead we can use percentages, which make our lives easier.
 * The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
+* For more understanding you can check out [HERE](https://css-tricks.com/tale-width-max-width/)
 
 >DAY 4
 
