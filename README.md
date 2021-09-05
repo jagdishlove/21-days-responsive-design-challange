@@ -8,7 +8,7 @@ In this challange basically we will try to achieve the best method to make our U
 
 # Will Update Day By Day
 
-### DAY 1 | **`Using percentages & avoiding heights`
+### DAY 1 | ** Using percentages & avoiding heights
 * Always use Width in % it will automatically change size according to the screen.
 * Ignore using height for this otherwill it will become complicated now, let it be default size.
 
